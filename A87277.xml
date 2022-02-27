@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I marry sir, Heere is newes indeed. Being the copie of a letter which the Devil sent to the Pope of Rome, and kept in the conclave of cardinals ever since the yeare 1623. and now published for the helpe and comfort of all Romish Catholickes in this time of their great necessity, to incourage them. Brought over from Rome by Charon the ferriman the last Jesuiticall-spring-tide of all their hellish practices to confound this kingdome of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87277</idno>
+            <idno type="STC">Wing I23</idno>
+            <idno type="STC">Thomason E129_3</idno>
+            <idno type="STC">ESTC R11239</idno>
+            <idno type="EEBO-CITATION">99858963</idno>
+            <idno type="PROQUEST">99858963</idno>
+            <idno type="VID">111023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111023)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>I marry sir, Heere is newes indeed. Being the copie of a letter which the Devil sent to the Pope of Rome, and kept in the conclave of cardinals ever since the yeare 1623. and now published for the helpe and comfort of all Romish Catholickes in this time of their great necessity, to incourage them. Brought over from Rome by Charon the ferriman the last Jesuiticall-spring-tide of all their hellish practices to confound this kingdome of England.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+                  <author>Wolley, George.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare of the brave cavaliere. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Pater tuus amantissimus Luciferus ..</note>
+                  <note>"Translated out of the Dutch copy into English, by me George Wolley .." p. 6.</note>
+                  <note>Attributed to John Taylor in the Wrenn catalogue.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 5th".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Urban --  VIII, --  Pope, 1568-1644 --  Humor --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111023:1"/>
+            <pb facs="tcp:111023:1" rendition="simple:additions"/>
+            <p>J marry Sir, heere is Newes indeed.</p>
+            <p>BEING The Copie of a Letter which the DEVIL ſent to the POPE of ROME, And kept in the Conclave of CARDINALS ever ſince the yeare 1623. and now publiſhed for the helpe and comfort of all <hi>Romiſh Catholickes</hi> in this time of their great neceſſity, to incourage them.</p>
+            <p>Brought over from ROME by CHARON the Ferr i<g ref="char:EOLhyphen"/>man the laſt Jeſuiticall-Spring-tide of all their Helliſh practiſes to confound this Kingdome of ENGLAND.</p>
+            <figure>
+               <figDesc>depiction of a pope being de-crowned by a unicorn</figDesc>
+            </figure>
+            <p>
+               <hi>Printed in the yeare of the brave Cavaliere.</hi> 1642. <add>Decemb: 5<hi rend="sup">th.</hi>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111023:2"/>
+            <pb n="1" facs="tcp:111023:2"/>
+            <head>TO The moſt pious, vertuous, and Religious Primate of all Chriſtendome, URBANE the 8. Pope of <hi>Rome,</hi> and my Vicegerent here upon Earth, <hi>Lucifer</hi> God of this world, Lord of <hi>Gehenna,</hi> King of <hi>Tartarus,</hi> Prince of <hi>Abiſſus,</hi> and Commander of the Infernall Furies, ſendeth <hi>Greeting.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt Reverend and deare Sonne) whoſe Holineſſe I reverence, whoſe Perſon I adore, whoſe Wiſdome I muſe at, whoſe Pollicie I wonder at, whoſe Strength I admire at, and at whoſe invincible Army I ſtand amazed at: I can but extoll, applaud and commend thee my Deare (Sonne) for this thy extraordinary and great paines, coſt and Charge in the preparation of thy Forces againſt the Rebellious <hi>Here<g ref="char:EOLhyphen"/>tickes</hi> of the <hi>Romiſh Catholike Religion;</hi> J meane the <hi>Brittaniſh, J<g ref="char:EOLhyphen"/>riſh, Daniſh,</hi> and <hi>Flemiſh</hi> Hereticks: The particulars of which force I ſhall not need to repeat, for I have them in writing, and I heare ſay, that they are alſo publiſhed to the whole world, therefore fol<g ref="char:EOLhyphen"/>low it with all celeritie and expedition, now are the dayes to Con<g ref="char:EOLhyphen"/>quer, now is the time to ſtrike, for their God hath forſaken them, their land is impoveriſhed, their Ships are tottered, their State
+<pb n="2" facs="tcp:111023:3"/>weakened, their Parliament is ended and nothing amended, the Nobles diſquieted, the Gentry diſcouraged the Commons diſcon<g ref="char:EOLhyphen"/>tented, the Kingdome devided, and the Romane Catholiques in England ſtand gaſping and gaping for your dayly arrivall, therefore now ſtrike or for ever hold thy hands, for by this meanes thou ſhalt bridle and confound all malicious, turbulent and ill-affected Spirits, againſt the See of Rome. There are but few Nations in the world that thou needeſt to feare, <hi>vidilizet.</hi> The King of Great <hi>Britaine,</hi> the King of <hi>Denmarke,</hi> the King of <hi>Sweden,</hi> and the Palſgrave falſe<g ref="char:EOLhyphen"/>ly uſurping the title of the King of <hi>Bohemia,</hi> and the Rebellious <hi>Hollander,</hi> but what are theſe againſt ſo many but even molehils to mountaines, and no more in our hands then a Lamb in the pawes of a Lyon yet it were not amiſſe to practiſe ſome deadly ſtratagem, ſecretly by my ſervants your Seminaries and Ieſuites, by powder, poyſon or ſome other meanes, eſpecial<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y againſt the King of Great Britaine, and the Pa<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>av<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Children thoſe young warlike Impes and King <hi>Henry</hi>-faced, and D. <hi>Elizabeth</hi>-hearted-apes; for if they be not now cut off in the bloſſome but continue untill they be ripe fruit, It is to bee feared they will doe much hurt and miſchiefe, and move Terri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies againſt the See of <hi>Rome.</hi>
+            </p>
+            <p>I conf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe indeed your Armies are of great force, and you have more then a ſufficient number of Foot and horſe, onely I feare you ſhall want Aſſes, to carry your proviſion when you be Landed, therefore I ſuppoſe you might have forborne two t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſand Horſes and have leavyed three or foure thouſand Aſſes more, for horſes, you know muſt be highly kept, with Peaſe, Beanes, and oates, and you Aſſes wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> live and faire hardly with thiſtles, and nettles, Now becauſe I heare a great muttering and complaint of victualls for your ſouldiers, therefore I will ſend you five thouſand barrells of the beſt freſh Lobcocks that can be taken in my River of <hi>Styx,</hi> and <hi>Acharon,</hi> and I will ſend you by my ſervant <hi>Charon,</hi> foure thou<g ref="char:EOLhyphen"/>ſand Tunns of large Canniballs heads ſodden in plum Broath, five thouſand quarters of <hi>Tartarian</hi> wheat, every Cornell as big as a mans head: and an Iron mill to grind it, whoſe ſtones ſhall be five miles about in compaſſe, and a great Braſen Oven to bake it in, which ſhall hold three hundred quarters at a batch, and will alſo ſend you live thouſand Friers Cowles well lined with Fox-fur: to keepe your Souldiers from the cold, and five hundred firkins of Crocotia pow<g ref="char:EOLhyphen"/>der
+<pb n="3" facs="tcp:111023:3"/>to put in little linnen bags to hang about the necks of your Soul<g ref="char:EOLhyphen"/>diers to keepe them from Lice and vermine: and a ſo I will ſend you ſix thouſand handkerchiffes made of Nuns Skinnes perfumed with Muske and Amber-greeſe to wipe the ſweat away from your browes in the Battaile: and five thouſand Targets made of Car<g ref="char:EOLhyphen"/>dinals Caps Armor of prooffe tryed by Hell fire: and five thouſand ells of fine Cambrick charmed, a peece wherof being layed to any mortall wound, ſhall immediatly heale it, and leaſt your Souldiers ſhould want Courage to fight againſt thoſe Heriticks, (as I feare they doe) for J heard ſay that an Engliſh heritick incountred the other day with a Spaniſh Knight on horſe back and conquered him and after that ſought with three valiant <hi>Spaniards</hi> at once, and killed two of them ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of hand, and made the third runne away, therefore I will ſent you five thouſand Barrells of Lions hearts, boyled in boyling lead which ſhall laſt and weare like yron, and I will alſo ſend you an hundred empty hogſheads, to put the blood of theſe <hi>Brittaniſh</hi> and <hi>Flemiſh</hi> Rebells into, to be convayed into <hi>Rome</hi> and <hi>Spaine.</hi>
+            </p>
+            <p>And to ſtrengthen your Knavie the more, I will ſend you two hundred gallant Aſſes and every one of them ſhall have ſixty whores on a ſide, punkes five hundred, and ſtrumpets to incourage your Souldiers five thouſand; blame me not I pray you though I write falſe Arthograthy, for I am not ſo frequent in the Engliſh as I am in the Romane, Spaniſh and Italian Tongues, and I will ſend you a thouſand legion of my Angells to pitch their tents about you to bring the ſoules of my Slaine ſervants to mee, for I have pre<g ref="char:EOLhyphen"/>pared a fitting place upon purpoſe for them, therefore feare no<g ref="char:EOLhyphen"/>thing for I never fayled any of my ſervants, much leſſe my deere and beloved Children, therefore make haſt ſtrike now the Iron is hot you are ſure you have men enough, horſe enough, Ships enough Ordinance enough, Powder and ſhot enough, Pikes and Muskets enough, munition enough, and water enough, and rather then you ſhall want wind, I will ſend you my greateſt paire of Bellowes that I have in Hell, and five thouſand of my ſtrongeſt infernall Furyes to blow them.</p>
+            <p>And thus my moſt deare Sonne, I powre my bleſſings upon thee in more plentifull manner then the drops of Raine deſcend upon the Earth. And alſo upon my two deare Grand-Children the Em<g ref="char:EOLhyphen"/>perour of <hi>Rome,</hi> and King of <hi>Spain,</hi> not forgetting the King of <hi>Po<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="4" facs="tcp:111023:4"/>The Arch-Duke <hi>Leopold,</hi> The Elector of <hi>Cullen,</hi> The Elector of <hi>Mentz,</hi> the Elector of <hi>Trever,</hi> The Duke of <hi>Baviere.</hi> The Duke of <hi>Saxon.</hi> The Arch-Biſhop of <hi>Strasburg.</hi> The Duke of <hi>Newburg.</hi> The great Duke of <hi>Florence.</hi> The Duke of <hi>Parma.</hi> The Duke of <hi>Mantua,</hi> the Duke of <hi>Medina,</hi> the State of <hi>Genoa,</hi> the State of <hi>Lucas,</hi> and the Canton Catholique of the <hi>Switzers,</hi> as alſo my good friend <hi>Tyrone,</hi> and the Earle of <hi>Argile,</hi> the Duke of <hi>Savoy,</hi> Sir <hi>Robert Dudley,</hi> Sir <hi>Griffin Marckham,</hi> Sir <hi>William Stan<g ref="char:EOLhyphen"/>ley,</hi> and my faithfull revolted friend <hi>J. Nevill,</hi> ſtiled the Earle of <hi>Weſtmorland,</hi> and not forgetting the Spaniſh and Italian leaders principall Aſſ-ciſtants in this Catholique and holy League. And further J intreat that you would remember my Love to my truſty ſervant <hi>Spinola,</hi> who hath ſpent the quinteſſence of his wits, the marrow of his bones, and the ſweat of his brames, in the beſiedge of <hi>Breda,</hi> and other warlike exployts and martiall affaires. And who hath been both a true and truſty friend, and as juſt to my hand<g ref="char:EOLhyphen"/>maid the Arch-Dutcheſſe, as ever her owne Husband was, and who through his great wiſdome and pollicy hath procured my Grand<g ref="char:EOLhyphen"/>child the King of <hi>Spaine,</hi> to grant Letters of Mart, and proclaime open Warres againſt the King of great <hi>Brittaine,</hi> and the rebellious <hi>Hollanders,</hi> by which meanes it is now come to paſſe, that neither <hi>Engliſh Mouſe,</hi> nor <hi>Flemmiſh Frog,</hi> can no ſooner peepe out of a Hole, or a Bogge, but the <hi>(Spaniſh Kite)</hi> I meane the <hi>Dunkirkes</hi> devours them up; and one principall reaſon you know is this, you have many good friends and favourites in <hi>England,</hi> great men in great Authority, who although they have a tongue for their King, yet they have a heart for the Pope, who ſee, and will not ſee, heare and will not heare, can, but will not reſiſt, partly for their owne private commodities, and partly for the affection and love, they beare to the Romiſh Religion; and further I heare ſay, my ſervant <hi>Spinola</hi> hath received my Sacrament, and kiſſed the <hi>Pax,</hi> and hath made a moſt ſollemne vow to Saint <hi>Iames,</hi> and ſworn by his <hi>Agnus dei,</hi> that he will ſpend his blood in England, againſt thoſe Heriticks, and revolters from the <hi>Catholique Church of Rome.</hi>
+            </p>
+            <p>Therefore if cruell Fate and Fortune ſo conſpire to effect that bloody ſtratagem, then my deſire is that his Heart may be baked in a paſty, and ſent to my deare Virgins and Daughters, the <hi>Nunnes</hi> in Saint <hi>Lucas,</hi> and his Bones to the Cathedrall Church in <hi>Civill,</hi>
+               <pb n="5" facs="tcp:111023:4"/>there to remaine for ever for a Relique of that holy Saint: and his Stones to be conveyed to my <hi>Handmaid</hi> the Arch-dutcheſſe, for a token of his love, and I would have an extraordinary Monument. made for him of Braſſe, and ſome pretty <hi>Epi-knave</hi> upon his death. Remember my love alſo to my Nephew the <hi>Infunta-Bona-Maria,</hi> who is to marry with my Grandchilds eldeſt Sonne, the <hi>Emperour</hi> of <hi>Rome,</hi> and tell her that although I cannot be there in perſon my ſelfe, (by reaſon of other extraordinary buſineſſe) yet my Secretary <hi>Belzebub,</hi> and a Legion of my Angels ſhall attend at her Nuptials. And I cannot be forgetfull of my moſt worthy and beloved Servant and Stateſman <hi>Gondamor,</hi> and his great paines that he tooke in England, when he was there Embaſſadour, in groaping in the night, and diving in the day, into the very intrailes (J meane the privie Chamber of their State, and Kingdome) and ever ſince going a<g ref="char:EOLhyphen"/>bout to make uſe of it, and to put that which he hath learned in practice, and alſo who did encourage my Children the <hi>Romiſh Ca<g ref="char:EOLhyphen"/>tholiques</hi> in England (being your <hi>Sub-jackes</hi>) to perſevere in the <hi>Catholique Religion,</hi> and to be patient for a time, for there would come a day ſhortly wherein they ſhould have free Liberty to uſe their Conſciences: and I have ſent him a Box of pretious oyntment to heale his <hi>Fiſtula</hi> in his <hi>Poſteriorums,</hi> leaſt it ſhould creep into his <hi>Priorums,</hi> and by that meanes the Common-wealth of Spain, ſhould be utterly deprived of ſo excellent a member. I doubt not but that you have Cannonized my worthy Servant <hi>T. R.</hi> for a Saint, who killed that filthy Heretique, <hi>Thomas Scot,</hi> Preacher at <hi>Vtrecht,</hi> who hath alwaies been a peſtilent Enemy to me, and our States; There<g ref="char:EOLhyphen"/>fore I charge you upon my bleſſing that he be Cannonized with <hi>Garnet, Tunſtell, Digby, Winter, Grant, Ruckwood, Caies, Bates,</hi> and <hi>Faulks,</hi> and the reſt of the Saints, for I have his Soule already: And although the laſt Fleet againſt the Heritique <hi>Q. Elizabeth,</hi> in 8<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. tooke not good effect, and ſucceſſe, by reaſon of misfortune and privie conſpiracy of that filthy <hi>(Wich) Furbuſher,</hi> and that Conjurer <hi>Drake</hi> and likewiſe the Gunpowder Treaſon, <hi>Anno</hi> 1605. againſt King <hi>Iames</hi> and his Poſterity, (by reaſon of the miſcariage of an unfortunate Letter) yet let us not be diſmayed, but practice continually, <hi>Vi et armis ingenitſque,</hi> to worke ſome rare exploit, my helping hand ſhall not be wanting; for ſurely ſome Lime-twigs be<g ref="char:EOLhyphen"/>ing ſet, it is a hundred to tenne but one will take: they lying ſo ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tely,
+<pb n="6" facs="tcp:111023:5"/>and never ſeeking to prevent any danger in time. There<g ref="char:EOLhyphen"/>fore remember me kindly to my ſervants the Seminaries and Ieſu<g ref="char:EOLhyphen"/>its, for they muſt be the principall inſtruments to put that in prac<g ref="char:EOLhyphen"/>tiſe which we have invented; And this admirable invincible Ar<g ref="char:EOLhyphen"/>my which we have now prepared, ſhall be called <hi>Colla Jugo,</hi> or the thunderbolt of the World; becauſe it ſhall not onely make the <hi>Britaniſh, Iriſh, Daniſh,</hi> and <hi>Flemiſh</hi> Heritiques and Rebels quake, but the very <hi>Turke</hi> himſelfe ſtand upon his guard. Now to con<g ref="char:EOLhyphen"/>clude with weeping eyes, one thing grieves me to the heart, I un<g ref="char:EOLhyphen"/>derſtood the other day that an Engliſh Heritique ſhould ſend word to my youngeſt ſonne, the King of <hi>Spaine,</hi> that his Souldiers ſhould bring no wild-fire with them, for feare of indangering their Ships and that they would ſave them that labour, for if your forces did land in England, they would make them ſhit wild-fire before they went away, (oh) this hath cut me to the ſoule, and I can ſpeake no more,</p>
+            <closer>
+               <salute>Vale</salute> 
+               <dateline>from my great Court in <hi>Tartarus,</hi> 
+                  <date>this firſt of <hi>Iulibus, Anno Millimo Sillimo Viceſſimo Sexto.</hi>
+                  </date>
+               </dateline> 
+               <signed>Pater tuus Amantiſſimus Luciferus Rex Tartari, &amp; Dominus hujus Mundi,</signed>
+            </closer>
+            <byline>Tranſlated out of the Dutch Copy into Engliſh, by me <hi>George Wolley,</hi> now reſident in <hi>Rotterdam.</hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111023:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
